@@ -1,7 +1,7 @@
 <H2>ENTER YOUR NAME: CHANDRU SM</H2>
 <H2>ENTER YOUR REGISTER NO.: 212223230034</H2>
 <H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H3>DATE:28/03/2025</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
